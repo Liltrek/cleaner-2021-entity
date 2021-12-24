@@ -1,2 +1,2 @@
-# cleaner-2021-entity
+# cleaner
 Scrub your hardware
